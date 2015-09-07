@@ -1,4 +1,4 @@
-My first successfull Docker based image for Memcached 1.4.22 on CentOS 6.6 intended for use with [CentminMod.com LEMP stack](http://centminmod.com). 
+My first successfull Docker based image for Memcached 1.4.22 on CentOS 6.7 intended for use with [CentminMod.com LEMP stack](http://centminmod.com). 
 
 ### My Docker Hub repo
 
